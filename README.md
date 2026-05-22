@@ -132,8 +132,6 @@ https://www.themealdb.com/api/json/v1/1/lookup.php?i=
 
 ![Recipe Details](./screenshots/details.png)
 
-> Create a `screenshots` folder and add project screenshots for better presentation.
-
 ---
 
 ## Learning Outcomes
